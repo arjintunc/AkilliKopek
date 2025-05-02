@@ -1,0 +1,11 @@
+{
+    "known_faces_dir": "known_faces",
+    "capture_dir": "captured_images",
+    "tolerance": 0.6,
+    "frame_skip": 2,
+    "led_duration": 2,
+    "camera_resolution": [640, 480],
+    "max_faces": 10,
+    "min_face_size": 100,
+    "log_level": "INFO"
+}
